@@ -1,2 +1,2 @@
-#!/bin/bas
-sudo chown -R --from=guillaume betty hello
+#!/bin/bash
+chown -R --from=guillaume betty hello
